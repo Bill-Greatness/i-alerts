@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "325918314646",
+    "firebase_url": "https://ialerts-269a8.firebaseio.com",
+    "project_id": "ialerts-269a8",
+    "storage_bucket": "ialerts-269a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325918314646:android:16fc92ed8bc9fdcd3d32b7",
+        "android_client_info": {
+          "package_name": "com.ialerts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325918314646-sj63881isrg9jjdrcmhstov2h8ncq51o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_0weZeNhEH3_7zeaOtUzSuA0XVWAJSYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325918314646-sj63881isrg9jjdrcmhstov2h8ncq51o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
